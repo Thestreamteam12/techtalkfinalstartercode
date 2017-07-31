@@ -1,3 +1,17 @@
-.title{
-    text-align= center;
+h1{
+    text-align:center;
+    color:lightblue;
+}
+
+body{
+    background-color:black;
+}
+    div{
+        float:left;
+}
+
+.rounded-corners{
+    float:left;
+    border-color: black;
+    
 }
